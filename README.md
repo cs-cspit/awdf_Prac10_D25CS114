@@ -2,7 +2,7 @@
 
 **Course**: Advanced Web Development Frameworks (ITUE301)  
 **Department**: IT/CE/CSE/AIML - CSPIT, CHARUSAT  
-**Semester**: 5th  
+**Semester**: 5
 
 ---
 
